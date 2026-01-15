@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const PORT = 8383
 
-let data = ['Mykola']
+let data = ['Mykola', 'Jake']
 
 // Middleware
 app.use(express.json())
