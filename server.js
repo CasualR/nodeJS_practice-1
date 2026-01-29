@@ -19,6 +19,7 @@ app.get('/', (req, res) => {
         `)
 })
 
+
 app.get('/', (req, res) => {
     res.send(`
         <body style="background:pink; color: blue;">
