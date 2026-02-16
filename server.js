@@ -7,6 +7,8 @@ let data = ['Mykola', 'Jake']
 // Middleware
 app.use(express.json())
 
+// practice
+
 // Website endpoints (visual)
 
 app.get('/', (req, res) => {
