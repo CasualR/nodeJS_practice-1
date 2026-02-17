@@ -7,7 +7,7 @@ let data = ['Mykola', 'Jake']
 // Middleware
 app.use(express.json())
 
-// practice
+// practice and
 
 // Website endpoints (visual)
 
