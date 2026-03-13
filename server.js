@@ -9,6 +9,8 @@ app.use(express.json())
 
 // practice and more practice more and more love more and more make love no war no war YES piza pizza new sideline
 
+// жить красиво это сложно но я научу
+
 // Website endpoints (visual)
 
 app.get('/', (req, res) => {
